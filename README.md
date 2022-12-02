@@ -11,3 +11,7 @@ Additionally, this project is deployed with Vercel and is live at [this link](ht
 
 Dependencies: 
 run ```npm i marked gray-matter```
+
+<p align="center">
+  <img width="460" src="screenshot.png">
+</p>
